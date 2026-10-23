@@ -67,6 +67,7 @@ const getMeme = async () => {
     "https://raw.githubusercontent.com/SunnyPearl2006/memebot_discord_a26-group4/main/assets/MegaMeme.png",
     "https://raw.githubusercontent.com/SunnyPearl2006/memebot_discord_a26-group4/main/assets/OnFire.png",
     "https://raw.githubusercontent.com/SunnyPearl2006/memebot_discord_a26-group4/main/assets/Pepe.png",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSTRN8-or2gjO8UW339WZDkP_vVy0uNQ2-sLE8_qMLQ&s=10"
   ];
 
   const randomMeme = memePaths[Math.floor(Math.random() * memePaths.length)];
